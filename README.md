@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coding" width="400" src="https://www.canva.com/design/DAGKeHJDh5A/3qOwlD4Uu-Otuq1YZPHgKQ/edit?utm_content=DAGKeHJDh5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 <h1 align="center">Hi 👋, I'm Harshal Soman</h1>
 <h3 align="center">Passionate about Data Science, Machine Learning and Artificial Intelligence with expertise in technologies like Natural Language Processing, Computer Vision and Data Analysis.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
