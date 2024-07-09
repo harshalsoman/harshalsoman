@@ -1,8 +1,4 @@
-<p align=”center”>
 
-<img width=”200" height=”200" src=”https://www.canva.com/design/DAGKeHJDh5A/3qOwlD4Uu-Otuq1YZPHgKQ/edit?utm_content=DAGKeHJDh5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt=”my banner”>
-
-</p>
 <h1 align="center">Hi 👋, I'm Harshal Soman</h1>
 <h3 align="center">Passionate about Data Science, Machine Learning and Artificial Intelligence with expertise in technologies like Natural Language Processing, Computer Vision and Data Analysis.</h3>
 
