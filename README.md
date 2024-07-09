@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [Resume](Resume)
 
 - ⚡ Fun fact **Voracious reader**
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshal-soman-ab21b3192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-soman-ab21b3192/" height="30" width="40" /></a>
