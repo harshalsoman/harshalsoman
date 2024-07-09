@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshal Soman</h1>
 <h3 align="center">Passionate about Data Science, Machine Learning and Artificial Intelligence with expertise in technologies like Natural Language Processing, Computer Vision and Data Analysis.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on **BertProject**
 
 - 🌱 I’m currently learning **R Programming and Tableau**
@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [Resume](Resume)
 
 - ⚡ Fun fact **Voracious reader**
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshal-soman-ab21b3192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-soman-ab21b3192/" height="30" width="40" /></a>
