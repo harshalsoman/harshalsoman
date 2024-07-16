@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **R Programming and Tableau**
 - 👨‍💻 All of my projects are available at [harshal25022002.github.io/](harshal25022002.github.io/) 
 - 📫 Write to me at **somanharshal25@gmail.com** or connect with me: <a href="https://linkedin.com/in/harshal-soman-ab21b3192" target="blank"><img src="https://img.icons8.com/badges/48/linkedin.png" alt="linkedin" width="30" height="30"/><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="harshal-soman" height="30" width="40" /></a>
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12HqgaHoBQQiAMuD1gwo4vqfB5fGUb23x/view?usp=sharing).
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1APRJBzVxuTqC5TGgkp5Q3t-Rix45ugQl/view?usp=sharing).
 
 <h3 align="center"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>GitHub overview </h3>
 
