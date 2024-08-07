@@ -10,7 +10,7 @@
 - 🏦 Passionate about Data Science, Machine Learning and Artificial Intelligence.
 - 💬 Talk to me about Computer Vision and Natural Language Processing.
 - 🌱 I’m currently learning **R Programming and Tableau**
-- 👨‍💻 All of my projects are available at [harshal25022002.github.io/](harshal25022002.github.io/) 
+- 👨‍💻 My portfolio website is available at [Website](harshalsoman.github.io/) 
 - 📫 Write to me at **somanharshal25@gmail.com** or connect with me: <a href="https://linkedin.com/in/harshal-soman-ab21b3192" target="blank"><img src="https://img.icons8.com/badges/48/linkedin.png" alt="linkedin" width="30" height="30"/><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="harshal-soman" height="30" width="40" /></a>
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1APRJBzVxuTqC5TGgkp5Q3t-Rix45ugQl/view?usp=sharing).
 
